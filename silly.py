@@ -5,3 +5,5 @@ print "master comment"
 print "I am branch comment"
 print "I am branch comment 2"
 print "I am branch comment 3"
+
+print "branch 1"
