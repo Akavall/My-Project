@@ -7,3 +7,5 @@ print "I am branch comment 2"
 print "I am branch comment 3"
 
 print "Another branch"
+
+print "reset 1"
