@@ -8,4 +8,3 @@ print "I am branch comment 3"
 
 print "Another branch"
 
-print "master 1"
