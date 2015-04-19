@@ -9,3 +9,4 @@ print "I am branch comment 3"
 print "Another branch"
 
 print "reset 1"
+print "reset 2"
